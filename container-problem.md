@@ -64,7 +64,7 @@ Jan 05 14:19:45 node kernel: docker0: port 1(veth6dc6a85) entered disabled state
 
 Jan 05 14:49:48 node dockerd[47229]: time="2022-01-05T14:49:48.160707037+01:00" level=info msg="ignoring event" container=7c49ff4e3c3c493830304d81e82d0261ccc06a75b5e10c7ba49a2d9e2985f065 module=libconta>
 
-Diese Logs werden bei jedem Mal, wenn man probiert den Container zu starten, im gleichen Muster ausgegeben. Egal welche Parameter man bei dem Docker-Command übergibt, die Logs bleiben gleich. Mit diesen Logs wurde sich ein weiteres Mal an den Arbitrum-Support gewendet. Diese melden nach einem Tag zurück. Laut ihnen hat die Maschine, auf der ich probiert habe, den Container zu starten, eine zu alte CPU.
+Diese Logs werden bei jedem Mal, wenn man probiert den Container zu starten, im gleichen Muster ausgegeben. Egal welche Parameter man bei dem Docker-Command übergibt, die Logs bleiben gleich. Mit diesen Logs wurde sich ein weiteres Mal an den Arbitrum-Support gewendet. Diese melden nach einem Tag zurück. Laut ihnen hat die Maschine, auf der ich probiert habe den Container zu starten, eine zu alte CPU.
 
 ## Fazit
 
